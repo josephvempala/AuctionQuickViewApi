@@ -1,0 +1,1 @@
+{"version":3,"file":"vehicles.js","sourceRoot":"","sources":["../../src/routes/vehicles.ts"],"names":[],"mappings":";;AAAA,2CAAmC;AACnC,mCAAiC;AACjC,oDAA4E;AAE5E,IAAM,MAAM,GAAG,gBAAM,EAAE,CAAC;AACxB,MAAM,CAAC,GAAG,CAAC,kBAAI,EAAE,CAAC,CAAC;AAEnB,MAAM,CAAC,GAAG,CAAC,GAAG,EAAE,6BAAkB,CAAC,CAAC;AACpC,MAAM,CAAC,GAAG,CAAC,MAAM,EAAE,yBAAc,CAAC,CAAC;AACnC,kBAAe,MAAM,CAAC"}
